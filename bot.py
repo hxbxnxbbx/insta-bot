@@ -482,4 +482,3 @@ if __name__ == "__main__":
     print("Bot is running successfully with sequential upload...")
     bot.infinity_polling(skip_pending=True)
 EOF
-nohup python3 bot.py &
