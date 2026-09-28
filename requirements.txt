@@ -2,3 +2,4 @@ pyTelegramBotAPI
 instagrapi
 yt-dlp
 requests
+moviepy==2.2.1
